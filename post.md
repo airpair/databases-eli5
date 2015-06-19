@@ -1,3 +1,5 @@
+Explain Like I'm 5 years old - **databases**. This article is intended for complete beginners or even people without a technical background. If you're just curious about what a database is, or what the word 'data' means, this article is for you.
+___
 ![Rubber Ducky NoSunglasses](http://www.saintpetersblog.com/wp-content/uploads/2014/08/rubber-duck.jpg)
 
 ![Rubber Ducky Sunglasses](http://ecx.images-amazon.com/images/I/61YHf5GsARL._SL1024_.jpg)
